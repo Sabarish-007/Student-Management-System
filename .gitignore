@@ -1,0 +1,13 @@
+# Java compiled files
+*.class
+out/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+
+# Database credentials
+db.properties
+.env
+.env.*
